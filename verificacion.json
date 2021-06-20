@@ -5,9 +5,6 @@
                                                                            " AZIATIKO7 11_8_21 5€ " : {
         " mensaje " : " ! ip 190.117.53.206"
     },
-        "El Bosque RP" : {
-        " mensaje " : " ! ip 135.148.74.60"
-    },
                 " Z3RCOR3 " : {
         " mensaje " : " ! ip 51.77.230.65"
     },
@@ -76,5 +73,8 @@
     },
                                                 " King Puma " : {
         " mensaje " : " ! ip 135.148.59.242"
+    },
+          "El Bosque RP" : {
+        " mensaje " : " ! ip 135.148.74.60"
     },
 }
