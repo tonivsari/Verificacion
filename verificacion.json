@@ -68,13 +68,13 @@
                                                 " King Puma " : {
         " mensaje " : " ! ip 135.148.59.242"
     },
-          "El Bosque RP" : {
-        " mensaje " : " ! ip 135.148.74.60"
-    },
             "Jairohx" : {
         " mensaje " : " ! ip 87.220.202.44"
     },
                                                 " Fran_#5504 " : {
         " mensaje " : " ! ip 51.15.145.113"
+    },
+            "El Bosque RP" : {
+        " mensaje " : " ! ip 135.148.74.60"
     },
 }
