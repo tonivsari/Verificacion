@@ -113,9 +113,6 @@
                                                                  " a  " : {
         " mensaje " : " ! ip 190.97.8.40"
     },
-                                                                 " a  " : {
-        " mensaje " : " ! ip 66.94.103.44"
-    },
                                                                    " a  " : {
         " mensaje " : " ! ip 190.183.220.76"
     },
@@ -128,10 +125,10 @@
                                                                      " a  " : {
         " mensaje " : " ! ip 207.244.227.29"
     },
+                                                                     " a  " : {
+        " mensaje " : " ! ip dreamgamerp.hostete.com"
+    },
                                                                        " a  " : {
         " mensaje " : " ! ip 192.168.0.18"
     },
 }
-                                                               " a  " : {
-        " mensaje " : " ! ip 35.247.249.11"
-    },
